@@ -217,4 +217,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created as part of the AI Learning System Challenge
+Created as part of the BOSCH X IIT Hyderbad Hackathon 2025
